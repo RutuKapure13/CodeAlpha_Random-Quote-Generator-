@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandomQuotegenerator</string>
+    <string name="splash_app_name">Random Quote Generator</string>
+    <string name="splash_tagline">Inspiration, one quote at a time</string>
+</resources>

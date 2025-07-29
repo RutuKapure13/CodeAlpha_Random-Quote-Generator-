@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#FAFAFA</color>
+    <color name="primary">#1976D2</color>
+    <color name="primaryVariant">#1565C0</color>
+    <color name="secondary">#FFB300</color>
+    <color name="accent">#FF7043</color>
+    <color name="quoteText">#222222</color>
+    <color name="authorText">#555555</color>
+    <color name="buttonText">#FFFFFF</color>
+    <color name="buttonBackground">#1976D2</color>
+    <color name="splash_bg">#E3F2FD</color>
+    <color name="splash_quote">#1976D2</color>
+    <color name="purple">#DA81E9</color>
+</resources>
